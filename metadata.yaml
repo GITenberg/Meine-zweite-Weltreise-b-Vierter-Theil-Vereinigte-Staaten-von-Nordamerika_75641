@@ -1,0 +1,56 @@
+_repo: Meine-zweite-Weltreise-b-Vierter-Theil-Vereinigte-Staaten-von-Nordamerika_75641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pfeiffer, Ida
+    alias: Pfeiffer, Ida Reyer
+    birthdate: 1797
+    deathdate: 1858
+    gutenberg_agent_id: '3807'
+    url: http://www.gutenberg.org/2009/agents/3807
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
+    - https://de.wikipedia.org/wiki/Ida_Pfeiffer
+description: 'Reading ease score: 67.8 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: History - American'
+- 'Browsing: Travel & Geography'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75641'
+language: de
+pgterms:marc904: https://phaidra.univie.ac.at/search#?page=1&pagesize=10&collection=o:1078834
+pgterms:marc905: 20220611110859pfeiffer
+pgterms:marc906: '1856'
+pgterms:marc907: at
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by eBooks on Demand
+  at the University of Vienna.)
+publication_note: '  $aWien :$bCarl Gerold, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+- GITenberg
+summary: '"Meine zweite Weltreise: Vierter Theil: Vereinigte Staaten von Nordamerika"
+  by Ida Pfeiffer is a travel narrative written in the mid-19th century. The book
+  chronicles the author’s observations and experiences during her journey through
+  the United States, highlighting the culture, geography, and societal issues of the
+  time, particularly focusing on the institution of slavery. Through her candid reflections
+  and detailed descriptions, Pfeiffer provides readers with a unique glimpse into
+  America during an era of significant change.  At the start of the narrative, Pfeiffer
+  arrives in New Orleans, vividly depicting the city’s landscape and its bustling
+  activity. She describes the Mississippi River and the surrounding areas, contrasting
+  their natural beauty with the grim realities of slavery that pervade the region.
+  Through her encounters with enslaved individuals and her observations of their treatment,
+  she expresses deep moral outrage and a critical perspective on the hypocrisy of
+  a society that prides itself on freedom while allowing such inhumanity. This opening
+  sets the tone for her exploration of the contradictions within American society,
+  particularly in the context of race relations and the continuing practice of slavery.
+  (This is an automatically generated summary.)'
+title: 'Meine zweite Weltreise : $b Vierter Theil : Vereinigte Staaten von Nordamerika.'
+url: http://www.gutenberg.org/ebooks/75641
